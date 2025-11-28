@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(207, 207, 207);
 }
 
 .main {
@@ -10,16 +10,36 @@ body {
 .menu {
     height: fit-content;
     padding: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
 }
 
-.menu-box {
+.menu-button {
     padding: 10px;
     margin: 5px;
+    margin-left: 0px;
     border: 1px solid black;
 }
 
 .container {
     width: auto;
-    height: 600px;
+    height: auto;
     padding: 10px
+}
+
+.main-line {
+    display: grid;
+    grid-template-columns: 10fr 90fr;
+    width: auto;
+    height: 50px;
+    background-color: grey;
+    border:  2px solid black;
+}
+
+.line-button  {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+    height: 10px;
+    width: 80px;
 }
