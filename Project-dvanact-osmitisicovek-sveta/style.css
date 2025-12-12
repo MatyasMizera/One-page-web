@@ -4,38 +4,46 @@ body {
 
 .main {
     display: grid;
-    grid-template-columns: 20fr 80fr; 
+    grid-template-columns: 20fr 80fr;
     background-color: rgb(232, 232, 232);
 }
 
 .menu {
-    height: fit-content;
-    padding: 10px;
-    padding-top: 0px;
-    padding-left: 0px;
+    padding: 10px 0 10px 0;
     background-color: rgb(165, 250, 246);
 }
 
 .menu-button {
+    display: block;
+    width: 100%;
     padding: 10px;
-    margin: 5px;
-    margin-left: 0px;
+    margin: 5px 0;
     border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+.menu-button:hover {
+    background-color: rgb(210, 210, 210);
 }
 
 .container {
-    width: auto;
-    height: auto;
-    padding: 10px
+    padding: 10px;
+}
+
+.main-content {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+    min-height: 200px;
 }
 
 .main-line {
     display: grid;
     grid-template-columns: 10fr 90fr;
-    width: auto;
     height: 45px;
     background-color: rgb(177, 177, 177);
-    border:  1.5px solid black;
+    border: 1.5px solid black;
     text-align: center;
 }
 
@@ -43,13 +51,11 @@ body {
     padding: 10px;
     margin: 5px;
     border: 1px solid black;
-    height: 10px;
-    width: 80px;
 }
 
 .last-line {
     background-color: rgb(190, 190, 190);
-    width: auto;
     height: 50px;
     margin-top: 20px;
 }
+
