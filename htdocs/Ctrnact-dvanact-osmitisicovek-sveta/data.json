@@ -1,0 +1,123 @@
+{
+  "intro": {
+    "title": "Čtrnáct osmitisícovek světa",
+    "paragraphs": [
+      "Osmitisícovky jsou hory vyšší než 8000 metrů nad mořem. Všechny se nacházejí v pohoří Himálaj a Karákóram.",
+      "Je jich pouze 14 a jejich zdolání patří k nejnáročnějším výkonům vysokohorské turistiky.",
+      "Vyber si konkrétní horu z nabídky vlevo."
+    ]
+  },
+
+  "1": {
+    "name": "Mount Everest",
+    "height": "8848 m",
+    "range": "Himálaj",
+    "countries": "Nepál / Čína",
+    "image": "images/everest.jpg",
+    "description": "Nejvyšší hora světa, poprvé zdolána v roce 1953 Edmundem Hillarym a Tenzingem Norgayem."
+  },
+  "2": {
+    "name": "K2",
+    "height": "8611 m",
+    "range": "Karákóram",
+    "countries": "Pákistán / Čína",
+    "image": "images/k2.jpg",
+    "description": "Druhá nejvyšší hora světa, považovaná za jednu z nejtěžších na výstup."
+  },
+  "3": {
+    "name": "Kangchenjunga",
+    "height": "8586 m",
+    "range": "Himálaj",
+    "countries": "Nepál / Indie",
+    "image": "images/kangchenjunga.jpg",
+    "description": "Třetí nejvyšší hora světa, dlouho považovaná za nejvyšší."
+  },
+  "4": {
+    "name": "Lhotse",
+    "height": "8516 m",
+    "range": "Himálaj",
+    "countries": "Nepál / Čína",
+    "image": "images/lhotse.jpg",
+    "description": "Čtvrtá nejvyšší hora světa, přímo sousedí s Mount Everestem."
+  },
+  "5": {
+    "name": "Makalu",
+    "height": "8485 m",
+    "range": "Himálaj",
+    "countries": "Nepál / Čína",
+    "image": "images/makalu.jpg",
+    "description": "Pátá nejvyšší hora světa, známá svou strmou pyramídovou vrcholovou částí."
+  },
+  "6": {
+    "name": "Cho Oyu",
+    "height": "8188 m",
+    "range": "Himálaj",
+    "countries": "Nepál / Čína",
+    "image": "images/cho_oyu.jpg",
+    "description": "Šestá nejvyšší hora světa, oblíbená mezi horolezci kvůli relativně snadnému přístupu."
+  },
+  "7": {
+    "name": "Dhaulagiri",
+    "height": "8167 m",
+    "range": "Himálaj",
+    "countries": "Nepál",
+    "image": "images/dhaulagiri.jpg",
+    "description": "Sedmá nejvyšší hora světa, známá svou majestátní a izolovanou polohou."
+  },
+  "8": {
+    "name": "Manaslu",
+    "height": "8163 m",
+    "range": "Himálaj",
+    "countries": "Nepál",
+    "image": "images/manaslu.jpg",
+    "description": "Osmá nejvyšší hora světa, náročná a méně frekventovaná než Everest či Annapurna."
+  },
+  "9": {
+    "name": "Nanga Parbat",
+    "height": "8126 m",
+    "range": "Karákóram",
+    "countries": "Pákistán",
+    "image": "images/nanga_parbat.jpg",
+    "description": "Devátá nejvyšší hora světa, přezdívaná \"Vražedná hora\" pro svou náročnost."
+  },
+  "10": {
+    "name": "Annapurna",
+    "height": "8091 m",
+    "range": "Himálaj",
+    "countries": "Nepál",
+    "image": "images/annapurna.jpg",
+    "description": "Desátá nejvyšší hora světa, známá vysokou nebezpečností a obtížností výstupů."
+  },
+  "11": {
+    "name": "Gasherbrum I",
+    "height": "8080 m",
+    "range": "Karákóram",
+    "countries": "Pákistán / Čína",
+    "image": "images/gasherbrum1.jpg",
+    "description": "Jedenáctá nejvyšší hora světa, častá mezi horolezci, kteří chtějí méně frekventované osmitisícovky."
+  },
+  "12": {
+    "name": "Broad Peak",
+    "height": "8051 m",
+    "range": "Karákóram",
+    "countries": "Pákistán / Čína",
+    "image": "images/broad_peak.jpg",
+    "description": "Dvanáctá nejvyšší hora světa, pojmenovaná podle svého širokého vrcholu."
+  },
+  "13": {
+    "name": "Gasherbrum II",
+    "height": "8035 m",
+    "range": "Karákóram",
+    "countries": "Pákistán / Čína",
+    "image": "images/gasherbrum2.jpg",
+    "description": "Třináctá nejvyšší hora světa, oblíbená mezi horolezci pro relativně snadný přístup."
+  },
+  "14": {
+    "name": "Shishapangma",
+    "height": "8027 m",
+    "range": "Himálaj",
+    "countries": "Čína (Tibet)",
+    "image": "images/shishapangma.jpg",
+    "description": "Čtrnáctá nejvyšší hora světa, nejnižší osmitisícovka, nachází se úplně v Číně."
+  }
+}
